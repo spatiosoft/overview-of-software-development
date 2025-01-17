@@ -1,0 +1,9 @@
+baseURL = 'https://guides.spatiosoft.com'
+languageCode = 'en-us'
+title = 'Overview Of Software Development | SPATIOSOFT'
+theme = 'hugo-theme-relearn'
+publishDir =  'docs'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
