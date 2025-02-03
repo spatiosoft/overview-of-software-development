@@ -1,4 +1,7 @@
-# Integration and APIs
+---
+title: "Integration and APIs"
+weight: 14
+---
 
 Integration means connecting different systems. 
 They can be from the same app, the same company, or different companies.

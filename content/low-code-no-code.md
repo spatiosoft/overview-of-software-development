@@ -1,5 +1,6 @@
 ---
 title: Low Code And No Code
+weight: 8
 ---
 
 Low code and no code are two approaches to develop software without writing code or with minimal code.

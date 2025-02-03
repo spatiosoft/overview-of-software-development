@@ -1,4 +1,7 @@
-# Documentation
+---
+title: "Documentation"
+weight: 11
+---
 
 Do yourself a favour, even if you are a genius and in your twenties with a healthy brain, consider that after 6 months you don't remember every detail.
 

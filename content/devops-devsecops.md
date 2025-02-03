@@ -1,4 +1,7 @@
-# DevOps and DevSecOps
+---
+title: "DevOps and DevSecOps"
+weight: 18
+---
 
 DevOps stands for Development and Operations.
 It is a way to organize and combine the teams responsible for developing and operating software.

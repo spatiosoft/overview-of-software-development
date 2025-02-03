@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview Of Software Development :: Overview Of Software Development | SPATIOSOFT</title>
+    <link>https://guides.spatiosoft.com/overview-of-software-development/index.html</link>
+    <description>By SPATIOSOFT&#xA;Introduction This guide will help you get familiar with the most important concepts of software development. It will not make you a software developer, but it will give you a wide perspective on the field.&#xA;Practice is a fundamental key to becoming a software developer. This guide will give you starting points to explore and practice by yourself.&#xA;By starting your journey with this book, you will be able to connect all the dots and understand the main concepts to understand the big picture of software development.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://guides.spatiosoft.com/overview-of-software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/history/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/history/index.html</guid>
+      <description>Introduction Software development has come a long way since its inception. From the early days of punch cards and assembly language, we have evolved to a world of high-level programming languages, integrated development environments (IDEs), and cloud-based applications. This blog post will take you on a journey through the history of software development, highlighting key milestones and innovations that have shaped the industry as we know it today.&#xA;The Early Days: 1940s - 1960s The history of software development is often traced back to the 1940s, with the creation of the first electronic computers. These machines used punch cards to input and output data, and programming them required a deep understanding of the machine’s architecture.</description>
+    </item>
+    <item>
+      <title>Language Overview</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/language-overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/language-overview/index.html</guid>
+      <description>The programming languages have never ceased to evolve and provide a great variety of styles, purposes and execution modes. They can be divided in categories as follow:&#xA;Programming languages Markup languages Query languages Command languages Programming Languages Programming languages can execute algorithms, procedure and functions. They can be classified by the execution mode, the paradigm, the coding style and the purpose. There are three execution modes: scripting, compiled and interpreted.</description>
+    </item>
+    <item>
+      <title>Main Programming Concepts</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/main-programming-concepts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/main-programming-concepts/index.html</guid>
+      <description>Programming is a process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using various types of languages like Python, Java, C++, etc. Here are some of the main concepts in programming:&#xA;Variables In programming, a variable is a storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value. The variable name is the usual way to reference the stored value. Data Types</description>
+    </item>
+    <item>
+      <title>Data Structure and Algorithm</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/data-structure-and-algo/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/data-structure-and-algo/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Common Tools</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/common-tools/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/common-tools/index.html</guid>
+      <description>In this section, we will cover the tools that are commonly used in the software development industry.&#xA;Version Control Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to revert files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.</description>
+    </item>
+    <item>
+      <title>Tooling</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/tooling/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/tooling/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frameworks</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/frameworks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/frameworks/index.html</guid>
+      <description>Frameworks are a set of tools and libraries that help you build web applications faster. They provide a structure for you to build on, and often come with a lot of built-in functionality that you would otherwise have to build yourself.&#xA;Frameworks can be very opinionated, meaning they have a specific way of doing things that you have to follow. This can be a good thing because it can help you build applications faster, but it can also be a bad thing because it can limit your flexibility.</description>
+    </item>
+    <item>
+      <title>Low Code And No Code</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/low-code-no-code/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/low-code-no-code/index.html</guid>
+      <description>Low code and no code are two approaches to develop software without writing code or with minimal code. It allows non-developers to create applications and automate processes.&#xA;With the arising of AI and machine learning, low code and no code are becoming more and more popular. They allow companies to develop faster with limited skills in software development. People can speak their language to the AI and the AI will generate the application through the Low Code or No Code platform.</description>
+    </item>
+    <item>
+      <title>Project Management</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/project-management/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/project-management/index.html</guid>
+      <description>Project management is the key element to deliver a project on time and on budget. It implies all the stakeholders to work together to achieve the same goal.&#xA;This is probably the topic that will bring the most debate and discussion on the table. It will most likely be responsible for many meetings where a few people will talk and the rest will be on their phone or laptop.&#xA;Agile In 2001, seventeen independent-minded software practitioners came together to discuss about best practices to deliver software. They wrote the Agile Manifesto, which remains today the reference for software development. There are twelve principles:</description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/testing/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/testing/index.html</guid>
+      <description>Testing is a crucial part of software development. It is also a topic that brings a lot of debate and discussion. At the beginning, junior developers hate testing. It may seem as boring and a waste of time. As soon as they face real life incident in production, they start to understand the importance of testing.&#xA;When the pain of writing tests is less than the pain of dealing with production incidents, unhappy or angry customers and stakeholders, they start to love testing.</description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/documentation/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/documentation/index.html</guid>
+      <description>Do yourself a favour, even if you are a genius and in your twenties with a healthy brain, consider that after 6 months you don’t remember every detail.&#xA;Except very rare case where people can remember any details year after, if it is not your case, accept that you will not remember everything.&#xA;At that point, focus first on yourself because you will be the biggest fan of your own writing.</description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/architecture/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/architecture/index.html</guid>
+      <description>Monolithic Architecture A monolithic architecture is an application built as one single structure containing all the components. It was very popular in the past and has become less popular with the rise of microservices architecture. The advantages:&#xA;Easier to develop Easier to test Easier to deploy The disadvantages:&#xA;Hard to scale Hard to maintain Risk of conflicts between teams Microservice Architecture A microservice architecture is an application built as a collection of small services. Each service is responsible for a specific task. They communicate with each other through APIs.</description>
+    </item>
+    <item>
+      <title>Data Management</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/data-management/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/data-management/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Integration and APIs</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/integration-and-apis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/integration-and-apis/index.html</guid>
+      <description>Integration means connecting different systems. They can be from the same app, the same company, or different companies.&#xA;Connecting systems is an essential part of software development that leads to great challenges.&#xA;One single app can live happily on its own, but a business process may require to interact with other systems. These interactions can happen in the background, as soon as possible, App 1 will inform App 2 of a new event. This is an asynchronous call from App 1 to App 2. It will happen, but we don’t know when.</description>
+    </item>
+    <item>
+      <title>UX and UI</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/ux-and-ui/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/ux-and-ui/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Container And Container Management</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/container-and-container-management/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/container-and-container-management/index.html</guid>
+      <description>In this section, we will discuss containers and container management.&#xA;In the software development industry, containers are used to package and run applications. Containers are lightweight, standalone, executable packages of software that include everything needed to run an application: code, runtime, system tools, system libraries, and settings.&#xA;They can be seen an operating system, usually Linux, that runs inside another operating system, the host system.&#xA;A host system can run multiple containers, each with its own isolated environment. Containers are portable and can run on any system that supports the container runtime.</description>
+    </item>
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/cloud-computing/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/cloud-computing/index.html</guid>
+      <description>Cloud computing allows deploying, managing, and scaling applications without the need to manage the underlying infrastructure. It is a model for enabling on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services). These resources can be rapidly provisioned and released.&#xA;Instead of managing physical servers in your own datacenters, you can rent the resources you need from a cloud provider.&#xA;The major cloud providers are:</description>
+    </item>
+    <item>
+      <title>DevOps and DevSecOps</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/devops-devsecops/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/devops-devsecops/index.html</guid>
+      <description>DevOps stands for Development and Operations. It is a way to organize and combine the teams responsible for developing and operating software. Instead of having one team developing the software and another team operating it, DevOps combines both teams into one. The one team become responsible for every aspect of the software, from development to operation.&#xA;Often, DevOps is seen as a job title, but it’s rather a way of organizing the work and the teams in a company.</description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/security/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/security/index.html</guid>
+      <description>Security</description>
+    </item>
+    <item>
+      <title>Game Development</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/game-development/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/game-development/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI And Machine Learning</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/ai-and-machine-learning/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/ai-and-machine-learning/index.html</guid>
+      <description>Artificial Intelligence (AI) and Machine Learning (ML) are two of the most transformative technologies of our time, fundamentally reshaping our world. AI is a broad field of computer science that aims to simulate human intelligence in machines, while Machine Learning, a subset of AI, focuses on the development of computer programs that can learn and improve from experience. In this blog post, we will delve deeper into these fascinating fields, exploring their history, applications, and future potential.</description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/data-science/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/data-science/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/blockchain/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/blockchain/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/quantum-computing/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/quantum-computing/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conclusion</title>
+      <link>https://guides.spatiosoft.com/overview-of-software-development/conclusion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guides.spatiosoft.com/overview-of-software-development/conclusion/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

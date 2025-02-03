@@ -1,5 +1,6 @@
 ---
 title: Project Management
+weight: 9
 ---
 
 Project management is the key element to deliver a project on time and on budget.

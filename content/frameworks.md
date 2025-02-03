@@ -1,5 +1,6 @@
 ---
 title: Frameworks
+weight: 7
 ---
 
 Frameworks are a set of tools and libraries that help you build web applications faster. They provide a structure for you to build on, and often come with a lot of built-in functionality that you would otherwise have to build yourself.

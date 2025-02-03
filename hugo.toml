@@ -1,8 +1,8 @@
-baseURL = 'https://guides.spatiosoft.com'
+baseURL = 'https://guides.spatiosoft.com/overview-of-software-development/'
 languageCode = 'en-us'
 title = 'Overview Of Software Development | SPATIOSOFT'
 theme = 'hugo-theme-relearn'
-publishDir =  'docs'
+publishDir =  'overview-of-software-development'
 
 [module]
   [[module.imports]]

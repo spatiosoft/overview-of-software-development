@@ -1,5 +1,6 @@
 ---
 title:  Common Tools
+weight: 5
 ---
 
 In this section, we will cover the tools that are commonly used in the software development industry.

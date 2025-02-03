@@ -1,4 +1,7 @@
-# Testing
+---
+title: "Testing"
+weight: 10
+---
 
 Testing is a crucial part of software development. It is also a topic that brings a lot of debate and discussion.
 At the beginning, junior developers hate testing. It may seem as boring and a waste of time.
